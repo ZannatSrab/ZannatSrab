@@ -10,5 +10,9 @@ Skills:  REACT.JS / HTML / CSS/ JAVASCRIPT
 - 🌱 I’m currently learning JavaScript & ReactJs 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ZannatSrab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-sraboni//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/v_i_n_c_a?utm_source=qr&igsh=MTJ4ajA5MTFmNWJ0OQ==/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZannatSrab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-sraboni//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@blackishh7681?si=gbosGkRTd83N7mp6)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatSrab)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZannatSrab)](https://github.com/ryo-ma/github-profile-trophy)
